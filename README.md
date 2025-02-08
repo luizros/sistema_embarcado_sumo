@@ -1,6 +1,6 @@
 # Projeto Robo com Arduino
 
-Este projeto implementa o controle de um robô utilizando a plataforma Arduino. O robô é controlado por dois motores e pode ser comandado via um controle PS3.
+Este projeto implementa uma interface em alto nível para controle de robôs diferenciais.
 
 ## Estrutura do Projeto
 
@@ -18,7 +18,6 @@ Este projeto implementa o controle de um robô utilizando a plataforma Arduino. 
 
 ## Dependências
 
-- Biblioteca `Ps3Controller` para controle via PS3.
 - Plataforma Arduino.
 - arduino-esp32 versão 3.0.2
 
